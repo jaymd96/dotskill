@@ -1,7 +1,7 @@
 {
   "name": "dotskill",
   "description": "Manager-Doer workflow with quality gates for Python development",
-  "version": "1.4.0",
+  "version": "1.6.0",
   "author": {
     "name": "James"
   },
@@ -19,6 +19,10 @@
     "gitops",
     "package-research",
     "playground",
-    "literate-programming"
+    "literate-programming",
+    "eyeball",
+    "introspection",
+    "verification",
+    "probes"
   ]
 }

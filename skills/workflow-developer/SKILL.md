@@ -56,8 +56,10 @@ The playground is your tool for being the first user. Every friction point you p
 
 2. **Use available skills** - Don't do work manually
    - package-research, unix-philosophy, python-coding
-   - python-layout, python-testing, code-review
+   - python-layout, **python-testing**, code-review
    - playground-exploration, llmtxt-generation
+   - **eyeball-introspection** - For code exploration, API verification, quick probes
+   - **python-testing** - Probe-first testing with eyeball + pytest
 
 3. **Action all findings** - Don't defer to "later"
    - Fix bugs immediately when found
