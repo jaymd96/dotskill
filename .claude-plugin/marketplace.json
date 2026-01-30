@@ -1,8 +1,8 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "python-quality-loop-marketplace",
+  "name": "personal-marketplace",
   "version": "1.0.0",
-  "description": "Python development workflow plugin with Manager-Doer orchestration and quality gates",
+  "description": "Manager-Doer workflow plugin with quality gates for Python development",
   "owner": {
     "name": "James",
     "email": "jaymd96@example.com"
