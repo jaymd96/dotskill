@@ -20,5 +20,77 @@
     "package-research",
     "playground",
     "literate-programming"
+  ],
+  "skills": [
+    {
+      "name": "workflow-manager",
+      "path": "skills/roles/manager/SKILL.md",
+      "description": "Manage Python development workflows with quality gates and decisions. Use when defining quality standards, evaluating code against gates, making accept/iterate/escalate decisions, or overseeing module development."
+    },
+    {
+      "name": "workflow-developer",
+      "path": "skills/roles/workflow-developer/SKILL.md",
+      "description": "Execute Python module development within a structured workflow. Use when implementing features, running tests, preparing code for review, or reporting progress through development iterations."
+    },
+    {
+      "name": "workflow-reviewer",
+      "path": "skills/roles/reviewer/SKILL.md",
+      "description": "Independently evaluate code quality and workflow compliance. Use when performing objective quality assessment, validating against quality gates, or providing recommendations for management decisions."
+    },
+    {
+      "name": "python-development-workflow",
+      "path": "skills/workflow/python-development-workflow/SKILL.md",
+      "description": "Orchestrate end-to-end Python development using the manager-doer pattern. Use when starting a new module or feature to understand the complete workflow from discovery through completion."
+    },
+    {
+      "name": "gitops-workflow",
+      "path": "skills/workflow/gitops/SKILL.md",
+      "description": "Manage git operations including branching strategies, conventional commits, and pull request workflows. Use when creating feature branches, writing commits, creating PRs, or managing development history."
+    },
+    {
+      "name": "python-coding-standards",
+      "path": "skills/foundations/python-coding/SKILL.md",
+      "description": "Write production-quality Python code using established coding standards. Use when implementing modules, classes, or functions covering naming conventions, module layout, error handling, type hints, and design patterns."
+    },
+    {
+      "name": "python-testing-standards",
+      "path": "skills/foundations/python-testing/SKILL.md",
+      "description": "Write effective Python tests using pytest and best practices. Use when creating test suites, designing test scenarios, handling edge cases, or ensuring comprehensive code coverage."
+    },
+    {
+      "name": "python-layout",
+      "path": "skills/foundations/python-layout/SKILL.md",
+      "description": "Python project and module structure guidance. Use for consistent conventions for project structure, module organization, file naming, and code organization within files."
+    },
+    {
+      "name": "literate-python",
+      "path": "skills/foundations/literate-python/SKILL.md",
+      "description": "Write Python code with literate programming annotations using Litterate-compatible #> markers. Use when writing code intended for human understanding, adding meaningful documentation without redundancy."
+    },
+    {
+      "name": "unix-philosophy",
+      "path": "skills/philosophy/unix-philosophy/SKILL.md",
+      "description": "Unix philosophy principles for Python development. Use for composition over reimplementation, small focused modules, and leveraging existing tools."
+    },
+    {
+      "name": "package-research",
+      "path": "skills/philosophy/package-research/SKILL.md",
+      "description": "Research existing packages before implementing. Use for systematic package discovery, evaluation, and build vs compose decisions."
+    },
+    {
+      "name": "playground-exploration",
+      "path": "skills/philosophy/playground/SKILL.md",
+      "description": "Playground-driven development using Knuth's dogfooding philosophy. Use when exploring APIs interactively, discovering features through usage, or converting experiments to tests."
+    },
+    {
+      "name": "llmtxt-generation",
+      "path": "skills/tools/llmtxt/SKILL.md",
+      "description": "Create concise documentation for LLM consumption using the llms.txt standard. Use when onboarding packages, documenting APIs for AI assistants, or creating context-efficient reference materials."
+    },
+    {
+      "name": "plugin-structure-reference",
+      "path": "skills/tools/plugin-structure-reference/SKILL.md",
+      "description": "Reference guide for Claude Code plugin directory structure and organization. Use when creating new Claude Code plugins, debugging plugin installation issues, or understanding how plugins should be structured."
+    }
   ]
 }
