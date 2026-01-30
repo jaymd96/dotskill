@@ -8,7 +8,6 @@
   "homepage": "https://github.com/jaymd96/python-quality-loop",
   "repository": "https://github.com/jaymd96/python-quality-loop",
   "license": "Apache-2.0",
-  "category": "development",
   "keywords": [
     "workflow",
     "manager-doer",
@@ -87,18 +86,6 @@
       "name": "llmtxt-generation",
       "path": "skills/tools/llmtxt/SKILL.md",
       "description": "Create concise documentation for LLM consumption using the llms.txt standard. For onboarding packages and creating AI-friendly references."
-    }
-  ],
-  "templates": [
-    {
-      "name": "llmtxt-template",
-      "path": "templates/llmtxt_template.md",
-      "description": "Template for creating llmtxt documentation for packages"
-    },
-    {
-      "name": "playground-template",
-      "path": "templates/playground_template.py",
-      "description": "Starter template for playground exploration files with standard structure and discovery patterns"
     }
   ]
 }
