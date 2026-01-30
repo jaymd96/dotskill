@@ -26,7 +26,11 @@
       "Bash(gh repo:*)",
       "Bash(__NEW_LINE_46e0a946e42f28c2__ git add -A)",
       "Bash(__NEW_LINE_810e906c8cb6ab4b__ grep -r \"jaymd96\\\\|python-quality-loop\" /Users/james/python-quality-loop/skills/)",
-      "Bash(__NEW_LINE_9f0efaf1bed0b135__ git add -A)"
+      "Bash(__NEW_LINE_9f0efaf1bed0b135__ git add -A)",
+      "Bash(curl:*)",
+      "Bash(__NEW_LINE_9195fd9d2775c957__ git add .claude-plugin/plugin.json)",
+      "Bash(git push:*)",
+      "Bash(__NEW_LINE_8bb30a9a81c8add3__ git add -A)"
     ]
   },
   "enabledPlugins": {
