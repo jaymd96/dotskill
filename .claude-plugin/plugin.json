@@ -45,7 +45,7 @@
     },
     {
       "name": "gitops-workflow",
-      "path": "skills/workflow/gitops.md",
+      "path": "skills/workflow/gitops/SKILL.md",
       "description": "Manage git operations including branching strategies, conventional commits, and pull request workflows. Use when creating feature branches, writing commits, creating PRs, or managing development history. Integrates with the manager-doer workflow."
     },
     {
