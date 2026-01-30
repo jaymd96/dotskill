@@ -7,6 +7,18 @@ description: Unix philosophy principles applied to Python development. Use when 
 
 Core Unix principles adapted for modern Python development: composition over reimplementation, small focused modules, and leveraging existing tools.
 
+## Contents
+
+- [The Original Principles](#the-original-principles)
+- [When to Use This Skill](#when-to-use-this-skill)
+- [Quick Reference](#quick-reference)
+- [Principle 1: Do One Thing Well](#principle-1-do-one-thing-well)
+- [Principle 2: Compose via Clear Interfaces](#principle-2-compose-via-clear-interfaces)
+- [Principle 3: Expect Standard Types](#principle-3-expect-standard-types)
+- [Principle 4: Reuse Existing Tools](#principle-4-reuse-existing-tools)
+- [Build vs Compose Decision](#build-vs-compose-decision)
+- [Composition Checklist](#composition-checklist)
+
 ## The Original Principles
 
 From Doug McIlroy and the Unix pioneers:

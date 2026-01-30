@@ -7,6 +7,20 @@ description: Python coding standards for production code. Use when writing, revi
 
 Standards for writing production-quality Python code that is maintainable, readable, and well-structured.
 
+## Contents
+
+- [Core Principles](#core-principles)
+- [Module Layout](#module-layout)
+- [Naming Conventions](#naming-conventions)
+- [Type Hints & Documentation](#type-hints--documentation)
+- [Functions](#functions) - Design and structure
+- [Classes](#classes) - Definition and patterns
+- [Error Handling](#error-handling)
+- [Testing](#testing)
+- [Code Review Checklist](#code-review-checklist)
+- [Anti-Patterns](#anti-patterns)
+- [Advanced Patterns](#advanced-patterns)
+
 ## Core Principles
 
 1. **Explicit over implicit** - Name things, use keyword args, type hints

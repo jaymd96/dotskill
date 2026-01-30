@@ -21,6 +21,17 @@ The playground is not throwaway code -- it's a discovery tool that:
 
 Every friction point you personally feel should be addressed.
 
+## Contents
+
+- [When to Use Playground Exploration](#when-to-use-playground-exploration)
+- [Playground Setup](#playground-setup) - Directory structure
+- [Exploration Workflow](#exploration-workflow) - Step-by-step process
+- [Discovery Patterns](#discovery-patterns) - What to look for
+- [Converting to Tests](#converting-to-tests) - From exploration to validation
+- [Documentation from Discoveries](#documentation-from-discoveries) - Using learnings
+- [Playground Checklist](#playground-checklist) - Verification
+- [Anti-Patterns](#anti-patterns) - What not to do
+
 ---
 
 ## When to Use Playground Exploration

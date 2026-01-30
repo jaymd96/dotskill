@@ -21,6 +21,20 @@ Implement -> Playground Explore -> Find Issues -> Update Requirements -> Impleme
 
 This is NOT a one-time step -- it's continuous throughout development.
 
+## Contents
+
+- [Quick Start](#quick-start) - Getting started
+- [Roles](#roles) - Manager, Developer, Reviewer
+- [Quality Gates](#quality-gates-defaults) - Standards for success
+- [Decision Framework](#decision-framework) - ACCEPT, ITERATE, ESCALATE
+- [Phase 0: Discovery](#phase-0-discovery) - Understanding the problem
+- [Phase 1: Development](#phase-1-development) - Implementation and iteration
+- [Phase 2: Refinement](#phase-2-refinement) - Addressing feedback
+- [Phase 3: Completion](#phase-3-completion) - Finalizing and shipping
+- [GitOps Integration](#gitops-integration) - Branches, commits, PRs
+- [Iteration Limits](#iteration-limits) - When to escalate
+- [Examples](#examples) - Concrete workflows
+
 ---
 
 ## Quick Start

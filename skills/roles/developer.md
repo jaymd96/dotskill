@@ -21,6 +21,21 @@ Follow the workflow strictly. The process catches issues that raw capability alo
 
 The playground is your tool for being the first user. Every friction point you personally feel should be addressed. Use your own code before others do.
 
+## Contents
+
+- [Your Responsibilities](#your-responsibilities)
+- [Your Constraints](#your-constraints-never-break-these)
+- [Phase 0: Discovery](#phase-0-discovery) - Understand the problem
+- [Phase 1: Development Loop](#phase-1-development-loop) - Implement and iterate
+- [Phase 2: Refinement](#phase-2-refinement) - Address manager feedback
+- [Phase 3: Completion](#phase-3-completion) - Finalize for production
+- [Working with Manager](#working-with-manager) - Communication patterns
+- [Anti-Patterns to Avoid](#anti-patterns-to-avoid)
+- [Unix Philosophy Guidelines](#unix-philosophy-guidelines)
+- [Playground Guidelines](#playground-guidelines-dogfooding)
+- [Code Layout Guidelines](#code-layout-guidelines)
+- [Success Checklist](#success-checklist)
+
 ## Your Responsibilities
 
 1. **Phase 0: Discovery** (one-time)

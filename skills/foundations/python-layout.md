@@ -7,6 +7,19 @@ description: Python project and module structure guidance. Use when creating new
 
 Consistent code layout makes codebases navigable, maintainable, and predictable. These conventions apply to all Python projects.
 
+## Contents
+
+- [Core Principles](#core-principles)
+- [Project Structure](#project-structure) - Directory layouts
+- [Module Organization](#module-organization) - File naming and purpose
+- [Import Ordering](#import-ordering) - Standard import sequences
+- [Naming Conventions](#naming-conventions) - Consistent names
+- [File Size Limits](#file-size-limits) - When to split files
+- [Public API Definition](#public-api-definition) - `__init__.py` exports
+- [Internal Modules](#internal-modules) - Private implementation
+- [Submodules](#submodules) - Feature organization
+- [Package Layout Checklist](#package-layout-checklist) - Verification
+
 ## Core Principles
 
 1. **Predictable structure** - Know where to find things without searching

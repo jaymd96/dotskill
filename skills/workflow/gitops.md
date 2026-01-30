@@ -8,6 +8,17 @@ compatibility: Requires git. GitHub CLI (gh) recommended for PR operations.
 
 Structured Git operations integrated with the Manager-Doer development workflow. Ensures clean history, isolated development, and proper code review.
 
+## Contents
+
+- [Quick Reference](#quick-reference) - Common commands
+- [When to Use This Skill](#when-to-use-this-skill)
+- [Branch Strategy](#branch-strategy) - Naming and organization
+- [Worktree Management](#worktree-management) - Parallel development
+- [Conventional Commits](#conventional-commits) - Commit message format
+- [Commit Strategy by Phase](#commit-strategy-by-phase)
+- [Pull Requests](#pull-requests) - Creating and managing PRs
+- [Phase Integration](#phase-integration) - When to commit and push
+
 ## Quick Reference
 
 ### Branch Creation
