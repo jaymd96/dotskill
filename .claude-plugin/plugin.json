@@ -30,7 +30,7 @@
     },
     {
       "name": "workflow-developer",
-      "path": "skills/roles/developer.md",
+      "path": "skills/roles/workflow-developer/SKILL.md",
       "description": "Execute Python module development within a structured workflow. Use when implementing features, running tests, preparing code for review, or reporting progress through development iterations. Provides implementation guidance and quality preparation."
     },
     {
@@ -40,7 +40,7 @@
     },
     {
       "name": "python-development-workflow",
-      "path": "skills/workflow/workflow.md",
+      "path": "skills/workflow/python-development-workflow/SKILL.md",
       "description": "Orchestrate end-to-end Python development using the manager-doer pattern. Use when starting a new module or feature to understand the complete workflow from discovery through completion, including phases, quality gates, and decision frameworks."
     },
     {
